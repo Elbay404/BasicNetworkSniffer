@@ -18,7 +18,7 @@ Two implementations are included:
 ## Requirements
 
 - Python 3
-- Linux (raw sockets required — tested on Kali Linux)
+- Linux (raw sockets required )
 - Root privileges to run
 
 ## Setup
